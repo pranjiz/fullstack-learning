@@ -1,2 +1,4 @@
-# WebTechnology
-Daily learnings will be updated here.
+/frontend
+/backend
+/mongodb
+/mini-projects
